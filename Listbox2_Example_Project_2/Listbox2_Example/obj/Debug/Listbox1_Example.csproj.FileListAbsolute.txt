@@ -1,0 +1,10 @@
+E:\Development\Listbox1_Example\Listbox1_Example\bin\Debug\Listbox1_Example.exe.config
+E:\Development\Listbox1_Example\Listbox1_Example\bin\Debug\Listbox1_Example.exe
+E:\Development\Listbox1_Example\Listbox1_Example\bin\Debug\Listbox1_Example.pdb
+E:\Development\Listbox1_Example\Listbox1_Example\obj\Debug\Listbox1_Example.csprojAssemblyReference.cache
+E:\Development\Listbox1_Example\Listbox1_Example\obj\Debug\Listbox1_Example.Form1.resources
+E:\Development\Listbox1_Example\Listbox1_Example\obj\Debug\Listbox1_Example.Properties.Resources.resources
+E:\Development\Listbox1_Example\Listbox1_Example\obj\Debug\Listbox1_Example.csproj.GenerateResource.cache
+E:\Development\Listbox1_Example\Listbox1_Example\obj\Debug\Listbox1_Example.csproj.CoreCompileInputs.cache
+E:\Development\Listbox1_Example\Listbox1_Example\obj\Debug\Listbox1_Example.exe
+E:\Development\Listbox1_Example\Listbox1_Example\obj\Debug\Listbox1_Example.pdb

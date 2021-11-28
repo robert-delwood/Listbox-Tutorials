@@ -17,8 +17,9 @@ The display will need to be a combination of both the first and last name, like 
 Showing how to display a value that is a composite of individual fields was covered in the Listbox2_Example_Project_2 example using the listBox1.DisplayMember property, such as listBox1.DisplayMember = "NameLast";
 A common problem is when an object is assigned to listbox, the display shows the object type, rather than individual fields, as many expect. 
 
-For example:
- 
+For example:<br>
+![image](https://user-images.githubusercontent.com/87502826/143765987-bbf5da75-c1c3-42e1-8bd2-8f1524bdd24c.png)
+
 In this case, the line `listBox1.DisplayMember = "NameLast";` is mandatory in order to show a more useful display. 
 This can be either a property, like` listBox1.DisplayMember = "NameLast";`, or a method `listBox1.DisplayMember = "GetUserDetails";` for creating a composite display. 
 The DisplayMember must be a public property within the class. 
